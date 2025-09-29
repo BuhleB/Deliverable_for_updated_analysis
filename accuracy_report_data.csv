@@ -1,0 +1,52 @@
+text,true_sentiment
+"This is the best thing I have ever bought!",Positive
+"I am so happy with this purchase.",Positive
+"The quality is outstanding, I would definitely recommend.",Positive
+"I love this product, it has exceeded my expectations.",Positive
+"This is a fantastic product, I am very impressed.",Positive
+"I am so glad I bought this, it is amazing.",Positive
+"The customer service was excellent, very helpful and friendly.",Positive
+"I would give this 10 stars if I could!",Positive
+"This is a must-have for anyone looking for a great product.",Positive
+"I am so impressed with the quality and performance of this product.",Positive
+"This is the worst thing I have ever bought!",Negative
+"I am so unhappy with this purchase.",Negative
+"The quality is terrible, I would not recommend.",Negative
+"I hate this product, it has not met my expectations.",Negative
+"This is a terrible product, I am very disappointed.",Negative
+"I am so disappointed I bought this, it is awful.",Negative
+"The customer service was terrible, very unhelpful and rude.",Negative
+"I would give this 0 stars if I could!",Negative
+"This is a must-avoid for anyone looking for a good product.",Negative
+"I am so unimpressed with the quality and performance of this product.",Negative
+"The product is okay, it does the job.",Neutral
+"I have no strong feelings about this product.",Neutral
+"It is an average product, nothing special.",Neutral
+"The product is as described, it works.",Neutral
+"I am neither happy nor unhappy with this purchase.",Neutral
+"The product is functional, but not exceptional.",Neutral
+"The product arrived on time.",Neutral
+"I have no complaints, but also no praises.",Neutral
+"The product is what I expected.",Neutral
+"I am neutral about this product.",Neutral
+"This is a truly wonderful experience, I am overjoyed!",Positive
+"I cannot express how much I love this, it's perfect.",Positive
+"The craftsmanship is superb, a work of art.",Positive
+"I am ecstatic with my purchase, thank you!",Positive
+"This is a game-changer, I am so impressed.",Positive
+"This is a truly awful experience, I am devastated!",Negative
+"I cannot express how much I hate this, it's useless.",Negative
+"The craftsmanship is shoddy, a piece of junk.",Negative
+"I am furious with my purchase, what a waste.",Negative
+"This is a disaster, I am so angry.",Negative
+"The product is neither good nor bad.",Neutral
+"I have no opinion on this product.",Neutral
+"It is a standard product, does what it says.",Neutral
+"The product is adequate for my needs.",Neutral
+"I am indifferent to this product.",Neutral
+"I am thrilled with this, it's a masterpiece!",Positive
+"This is a complete and utter failure.",Negative
+"The product is simply there, it exists.",Neutral
+"I am over the moon with this purchase!",Positive
+"I am at my wit's end with this product.",Negative
+
